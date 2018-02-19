@@ -7,7 +7,7 @@
 *  Licensed under the MIT License.
 *-------------------------------------------------------------*/
 
-print "2";
+print "2 XXXXXXXXXXXXXXXX 2";
 
 
 ?>
