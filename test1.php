@@ -11,5 +11,7 @@ print "1";
 
 print "Test xxxx  123456";
 
+print "CHOM";
+
 
 ?>
