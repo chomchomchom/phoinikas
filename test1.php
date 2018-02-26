@@ -13,5 +13,7 @@ print "Test xxxx  123456";
 
 print "CHOM";
 
+print "LOOKHIN";
+
 
 ?>
